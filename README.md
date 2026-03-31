@@ -1,6 +1,7 @@
 Matrix Multiplication Program (C#)
 
 📌 Overview
+
 This project is a simple C# console application that demonstrates operations on two-dimensional arrays (matrices).
 The program creates two 3×3 matrices, displays them, and performs element-wise multiplication to produce a third matrix.
 
