@@ -1,7 +1,5 @@
 
 
-
-
 Matrix Multiplication Program (C#)
 
 📌 Overview
